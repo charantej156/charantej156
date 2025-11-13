@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kosireddy Vivek Charan Tej</h1>
-<h3 align="center">A passionate AI researcher from India</h3>
+<h3 align="center">A passionate AI researcher and engineer from India</h3>
 
 - 📫 How to reach me **charankosireddy.156@gmail.com**
 
